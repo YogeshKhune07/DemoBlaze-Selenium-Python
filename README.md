@@ -5,7 +5,6 @@ This repository contains automated test scripts for the DemoBlaze e-commerce web
 *Table of Contents
 Overview
 Features
-Project Structure
 Prerequisites
 Installation
 Running Tests
@@ -19,27 +18,7 @@ This project automates the testing of the DemoBlaze e-commerce platform. It cove
 *Features
 Test Automation using Selenium and unittest framework.
 Test Suite to manage execution of various test cases.
-Test Reports providing a summary of test execution.
-
-
-DemoBlaze-Selenium-python/
-│
-├── tests/
-│   ├── test_addcart.py      # Test for adding products to the cart
-│   ├── test_checkout.py     # Test for the checkout process
-│   ├── test_login.py        # Test for user login functionality
-│   ├── test_logout.py       # Test for user logout functionality
-│   ├── test_product_browsing.py  # Test for browsing products
-│   └── test_signup.py       # Test for user signup functionality
-│
-├── utils/
-│   ├── webdriver_setup.py   # WebDriver configuration
-│   └── __init__.py          # Utility init file
-│
-├── reports/                 # Folder for storing test reports
-│
-└── README.md                # Project documentation
-
+Test Reports providing a summary of test execution
 
 
 *Prerequisites
