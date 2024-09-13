@@ -1,1 +1,2 @@
-# DemoBlaze-Selenium-Python
+# DemoBlaze-Selenium-Python   
+Automation using selenium with python. 
