@@ -6,10 +6,15 @@ This repository contains automated test scripts for the DemoBlaze e-commerce web
 
 *Table of Contents
 Overview
+ 
 Features
+
 Prerequisites
+
 Installation
+
 Running Tests
+
 Test Scenarios
 
 
@@ -28,8 +33,6 @@ Test Reports providing a summary of test execution
 
 
 *Prerequisites
-
-Python 3.12
 
 selenium==4.12.0
 
@@ -63,8 +66,8 @@ User Login - Valid and invalid login credentials.
 
 Product Browsing - Checking product categories and product display on the homepage.
 
-Add to Cart - Navigating to the last page and adding products to the cart.
+Add to Cart - Navigating to the last page and adding last product of last page to the cart.
 
-Checkout - Positive and negative scenarios for completing a purchase.
+Checkout - Positive and negative scenarios for completing a purchase.i.e checkout with empty cart and checkout by adding product to cart.
 
 Logout - Successfully logging out.
